@@ -1,16 +1,16 @@
-SYALOM ADVENSIA MANURUNG - syalommanurung123@gmail.com
-ITHA CLARINA - itharigan23@gmail.com
-Pembagian tugas:
-Testing on https://magento.softwaretestingboard.com/
-Minimum Feature Test
+SYALOM ADVENSIA MANURUNG - syalommanurung123@gmail.com <br>
+ITHA CLARINA - itharigan23@gmail.com <br> <br>
+Pembagian tugas: <br>
+Testing on https://magento.softwaretestingboard.com/<br>
+Minimum Feature Test <br> 
 
-// SYALOM
-Create an Account
-Login
-My Account > Edit Account Information
-My Account > Edit Address
+// SYALOM <br>
+Create an Account <br>
+Login <br>
+My Account > Edit Account Information <br>
+My Account > Edit Address<br> <br>
 
-// ITHA
-Choose product(s)
-View and Update Shopping Cart
-Proceed to Checkout
+// ITHA <br>
+Choose product(s) <br>
+View and Update Shopping Cart <br>
+Proceed to Checkout <br>
